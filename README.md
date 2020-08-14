@@ -1,3 +1,3 @@
 # Next-Level-Week2-Rocketseat
-Proffy - sua plataforma de estudos online
-Projeto da trilha discovery onde para uma plataforma de estudos em HTML, CSS e JavaScript
+<h2>Proffy - sua plataforma de estudos online</h2>
+<p>Projeto da trilha discovery desenvolvido em HTML, CSS e JavaScript</p>
