@@ -1,2 +1,5 @@
 # Next-Level-Week2-Rocketseat
-Desenvolvendo Proffy - sua plataforma de estudos online
+
+<h2>Proffy - sua plataforma de estudos online</h2>
+
+<p>Projeto da trilha discovery desenvolvido entre 03/08 e 13/08</p>
