@@ -2,4 +2,4 @@
 
 <h2>Proffy - sua plataforma de estudos online</h2>
 
-<p>Projeto da trilha discovery desenvolvido entre 03/08 e 13/08</p>
+Projeto da trilha discovery onde para uma plataforma de estudos em HTML, CSS e JavaScript
